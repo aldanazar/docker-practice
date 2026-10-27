@@ -170,23 +170,6 @@ docker ps
 | my-redis | 6379 | Redis деректер қоры |
 | custom-site | 8081 | Жеке веб-сайт |
 
-## 6. Орындалған жұмыстың скриншоттары
-
-### 6.1. Nginx веб-серверінің нәтижесі
-
-![Nginx веб-сервері](screenshots/nginx.png)
-
-### 6.2. Redis деректер қорының нәтижесі
-
-![Redis деректер қоры](screenshots/redis.png)
-
-### 6.3. Жеке веб-сайттың нәтижесі
-
-![Жеке веб-сайт](screenshots/custom-site.png)
-
-### 6.4. Docker Hub репозиторийлері
-
-![Docker Hub](screenshots/docker-hub.png)
 
 ## Қорытынды
 
